@@ -1,6 +1,7 @@
 # 🎨 DIY RGB Controller
 
-Leichtgewichtiger Ersatz für SignalRGB. Steuert deine RGB-Hardware über [OpenRGB](https://openrgb.org/).
+Dies ist ein leichtgewichtiger Ersatz für SignalRGB und fungiert im Kern als **eine schöne, ressourcenschonende Benutzeroberfläche (UI) für [OpenRGB](https://openrgb.org/)**. 
+Die Software bietet eigene flüssige Effekte (wie Wave, Breathing, etc.), während OpenRGB unsichtbar im Hintergrund die Kommunikation mit deiner Hardware übernimmt.
 
 ## Voraussetzungen
 
