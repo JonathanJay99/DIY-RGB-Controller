@@ -3,6 +3,8 @@
 Dies ist ein leichtgewichtiger Ersatz für SignalRGB und fungiert im Kern als **eine schöne, ressourcenschonende Benutzeroberfläche (UI) für [OpenRGB](https://openrgb.org/)**. 
 Die Software bietet eigene flüssige Effekte (wie Wave, Breathing, etc.), während OpenRGB unsichtbar im Hintergrund die Kommunikation mit deiner Hardware übernimmt.
 
+> **Disclaimer:** Dieses Projekt ist ein inoffizielles Community-Tool und steht in keiner offiziellen Verbindung zum OpenRGB-Projekt oder dessen Entwicklern.
+
 ## Voraussetzungen
 
 1. **Python 3.11+** installiert
