@@ -40,13 +40,10 @@ python main.py --profile MeinProfil
 
 ## Unterstützte Hardware
 
-Über OpenRGB werden u.a. unterstützt:
-- ASRock Motherboard RGB
-- Corsair RAM
-- Lian Li Fans (über L-Connect Controller)
-- Deepcool AIO
-- LED Strips (über Motherboard-Header)
-- Lian Li Strimer (teilweise)
+Da dieses Tool auf OpenRGB basiert, wird **jede Hardware unterstützt, die auch von OpenRGB unterstützt wird**.
+
+Eine vollständige und aktuelle Liste aller kompatiblen Mainboards, RAM-Module, Lüfter, GPUs und Peripheriegeräte findest du direkt auf der OpenRGB-Website:
+👉 [OpenRGB Supported Devices](https://openrgb.org/devices.html)
 
 ## Autostart (Optional)
 
